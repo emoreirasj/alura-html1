@@ -1,0 +1,16 @@
+body {
+    background: #e9bf05;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 17px;
+}
+
+#missao {
+    font-size: 19px; 
+    text-align: center;
+}
